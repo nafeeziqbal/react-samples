@@ -1,0 +1,25 @@
+.animal-show{
+    position: relative;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-sizing: 0px 3px 4px lightgray;
+}
+
+.animal{
+    height: 200px;
+}
+
+.heart{
+    position : absolute;
+    bottom: 10%;
+    right: 10%;
+}
+
+.click-counter{
+    position: absolute;
+    bottom: 16%;
+    right: 17%;
+    font-weight: bolder;
+}

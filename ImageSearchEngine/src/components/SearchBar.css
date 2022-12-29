@@ -1,0 +1,21 @@
+.search-bar {
+    border : 5px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    color : black;
+    margin-bottom: 10px;
+
+}
+
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.search-bar form input {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border : 1px solid gray;
+    
+}
